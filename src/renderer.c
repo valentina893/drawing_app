@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#include "../inc/renderer.h"
+#include "renderer.h"
 
 int renderer_create(renderer* renderer, char* window_title, int window_width, int window_height) {
 
