@@ -1,5 +1,5 @@
 cc = gcc
-target = snake
+target = draw
 
 src_dir = src
 obj_dir = bin
