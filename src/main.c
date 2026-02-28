@@ -1,6 +1,6 @@
 // main.c
 
-#include "../inc/renderer.h"
+#include "renderer.h"
 
 #define window_width 640
 #define window_height 480
